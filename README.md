@@ -79,5 +79,5 @@ Run this command `python3 src/weather_dashboard.py`
 - Verify your stroed data in the S3 Bucket
 - EMPTY THE S3 BUCKET AND DELETE THE BUCKET
 
-### You have succeffully created a weather app that makes API calls and store the data in an S3 Bucket
+### You have successfully created a weather app that makes API calls and store the data in an S3 Bucket
 

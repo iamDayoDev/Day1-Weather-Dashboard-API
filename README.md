@@ -1,6 +1,6 @@
 ## DAY 1: DevOps Challenge - WEATHER-DASHBOARD
 
-Required Technologies:
+## REQUIRED TECHNOLOGIES:
 
 - Python
 - AWS S3 Setup
